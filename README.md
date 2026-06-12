@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=MS+Computer+Science+%40+BGSU+(GPA%3A+3.87%2F4.0);Full-Stack+%7C+AI%2FML+%7C+Cloud-Native+Engineer;AWS+%7C+GCP+%7C+Azure+Certified;Published+Researcher+%E2%80%94+Deep+Learning+%26+Edge+AI)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2124lohitharatakonda/2124lohitharatakonda/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/2124lohitharatakonda/2124lohitharatakonda/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/2124lohitharatakonda/2124lohitharatakonda/raw/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
@@ -90,16 +96,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2124lohitharatakonda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=2124lohitharatakonda&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/2124lohitharatakonda/2124lohitharatakonda/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
