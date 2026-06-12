@@ -1,12 +1,10 @@
 <div align="center">
 
-# **SWE Intern @ Senecio · Teaching Assistant @ BGSU · AWS | GCP | Azure Certified**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=SWE+Intern+%40+Senecio+%7C+Teaching+Assistant+%40+BGSU;AWS+Certified+%7C+GCP+Certified+%7C+Azure+AZ-900;Full-Stack+%7C+AI%2FML+%7C+Cloud-Native+Engineer;Published+Researcher+%E2%80%94+Deep+Learning+%26+Edge+AI)](https://git.io/typing-svg)
 
 **MS Computer Science @ Bowling Green State University (GPA: 3.87/4.0)**
 
 Full-Stack Engineering &nbsp;·&nbsp; AI/ML Systems &nbsp;·&nbsp; Cloud-Native &nbsp;·&nbsp; Edge AI & Deep Learning
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=750&lines=Python+%7C+Java+%7C+React+%7C+Spring+Boot+%7C+FastAPI;XGBoost+%7C+PyTorch+%7C+TensorFlow+%7C+LangChain+%7C+RAG;AWS+Certified+%7C+GCP+Certified+%7C+Azure+AZ-900;Published+Researcher+%E2%80%94+Deep+Learning+%26+Edge+AI)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2124lohitharatakonda/2124lohitharatakonda/raw/output/github-contribution-grid-snake-dark.svg" />
