@@ -116,9 +116,10 @@ Full-Stack Engineering &nbsp;·&nbsp; AI/ML Systems &nbsp;·&nbsp; Cloud-Native 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-lohitharatakonda.179%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohitharatakonda.179@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lohitha%20Ratakonda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Location](https://img.shields.io/badge/Location-Bowling%20Green%2C%20OH%20%7C%20Open%20to%20Relocation-2ECC71?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+[![Phone](https://img.shields.io/badge/Phone-%28%2B1%29%20419--494--4565-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+14194944565)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lohitha%20Ratakonda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohitha-ratakonda/)
+[![GitHub](https://img.shields.io/badge/GitHub-2124lohitharatakonda-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2124lohitharatakonda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://2124lohitharatakonda.github.io/Lohitharatakonda_portfolio/)
 
 </div>
 
