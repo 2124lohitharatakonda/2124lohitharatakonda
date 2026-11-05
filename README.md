@@ -21,12 +21,7 @@ Software Engineering &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Computer Vision &nbsp;�
 ## 👩‍💻 About Me
 
 - 🎓 M.S. in Computer Science @ **Bowling Green State University** — GPA **3.87/4.0** (May 2026)
-- 💻 Software Engineer with hands-on experience in **C#, Python, Java, C++, JavaScript, SQL & REST APIs**
-- 🚀 Built software across **VR/Drone Simulation, Full-Stack Development, Computer Vision & Machine Learning**
-- 🥽 Graduate Research Assistant — developed **Unity/C# VR drone training simulations for Meta Quest 3**
-- 📚 Published researcher in **Deep Learning** with research in **Edge AI, Digital Twins & Autonomous Vehicle Systems**
-- ☁️ **Google Cloud, IBM & AWS Certified** | **$25,000 Graduate Merit Scholarship** recipient
-- 📍 Open to relocation | Targeting **Software Engineering, AI/ML & Computer Vision** roles
+
 
 ---
 
